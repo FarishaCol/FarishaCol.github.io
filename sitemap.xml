@@ -3,30 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://farishacol.github.io/</loc>
     <lastmod>2020-06-01T20:31:02+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/3d-printing/</loc>
+    <loc>https://farishacol.github.io/posts/3d-printing/</loc>
     <lastmod>2020-06-01T20:31:02+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://farishacol.github.io/posts/</loc>
     <lastmod>2020-06-01T20:31:02+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://farishacol.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/series/</loc>
+    <loc>https://farishacol.github.io/series/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://farishacol.github.io/tags/</loc>
   </url>
   
 </urlset>
